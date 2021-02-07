@@ -10,6 +10,7 @@ I'm Mazlum, living in İstanbul,Turkey. I'm junior software develover.
 <img src="https://github.com/mazlumabul/mazlumabul/blob/master/logo/spring.png" alt="spring" width="40" height="40">
 <img src="https://github.com/mazlumabul/mazlumabul/blob/master/logo/bootstrap.png" alt="bootstrap" width="40" height="40">
 <img src="https://github.com/mazlumabul/mazlumabul/blob/master/logo/javascript.png" alt="javascript" width="40" height="40">
+<img src="https://github.com/mazlumabul/mazlumabul/blob/master/logo/sql.png" alt="javascript" width="40" height="40">
 
 
 <h3> Stats about my Github 📊 </h3>

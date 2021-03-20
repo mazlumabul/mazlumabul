@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Mazlum. I'm junior software develover.
-- 🌱 I’m currently learning Java- Spring Boot & React & Android
+- 🌱 I’m currently learning Java- Spring Boot & React
 <h3> Here is my favorites technologies 😄</h3> 
   
 <p align="left">
@@ -10,7 +10,7 @@ I'm Mazlum. I'm junior software develover.
 <img src="https://github.com/mazlumabul/mazlumabul/blob/master/logo/spring.png" alt="spring" width="40" height="40">
 <img src="https://github.com/mazlumabul/mazlumabul/blob/master/logo/bootstrap.png" alt="bootstrap" width="40" height="40">
 <img src="https://github.com/mazlumabul/mazlumabul/blob/master/logo/javascript.png" alt="javascript" width="40" height="40">
-<img src="https://github.com/mazlumabul/mazlumabul/blob/master/logo/sql.png" alt="javascript" width="40" height="40">
+
 <img src="https://github.com/mazlumabul/mazlumabul/blob/master/logo/android.png" alt="javascript" width="40" height="40">
 
 

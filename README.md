@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm Mazlum, living in İstanbul,Turkey. I'm junior software develover.
-- 🌱 I’m currently learning Spring Boot & React
+I'm Mazlum. I'm junior software develover.
+- 🌱 I’m currently learning Java- Spring Boot & React & Android
 <h3> Here is my favorites technologies 😄</h3> 
   
 <p align="left">

@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mazlumabul">
 Hi there 👋
 I'm Mazlum. I'm junior software develover.
 - 🌱 I’m currently learning Java- Spring Boot

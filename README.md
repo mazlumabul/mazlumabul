@@ -12,6 +12,8 @@ I'm Mazlum. I'm junior software develover.
 <img src="https://github.com/mazlumabul/mazlumabul/blob/master/logo/javascript.png" alt="javascript" width="40" height="40">
 
 
+<h3> Stats about my Github 📊 </h3>
 
+<span align='left'> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazlumabul&layout=compact&hide=html" alt="mazlumabul" /></span><span>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mazlumabul&show_icons=true" alt="mazlumabul" /></span>  
 
 

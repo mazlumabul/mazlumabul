@@ -14,6 +14,7 @@ I'm Mazlum. I'm junior software develover.
 
 <h3> Stats about my Github 📊 </h3>
 
-<span align='left'> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazlumabul&layout=compact&hide=html" alt="mazlumabul" /></span><span>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mazlumabul&show_icons=true" alt="mazlumabul" /></span>  
+<span align='left'> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazlumabul&layout=compact&hide=html" alt="mazlumabul" /></span>
+<span>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mazlumabul&show_icons=true" alt="mazlumabul" /></span>  
 
 

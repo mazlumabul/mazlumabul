@@ -1,6 +1,6 @@
 Hi there 👋
 I'm Mazlum. I'm  software develover.
-- 🌱 I’m currently learning  Spring Boot
+- 🌱 I'm currently a Spring Boot developer
 <h3> Here is my favorites technologies 😄</h3> 
   
 <p align="left">
